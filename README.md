@@ -2,7 +2,7 @@
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=RiRyCasals&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiRyCasals&theme=default)
 ![GitHub commits time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiRyCasals&theme=default)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiRyCasals)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiRyCasals&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub repository language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiRyCasals&theme=default)
 ![Github commits language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiRyCasals&theme=default)
 
