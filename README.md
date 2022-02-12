@@ -6,7 +6,7 @@
 ![GitHub repository language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiRyCasals&theme=default)
 ![Github commits language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiRyCasals&theme=default)
 
-## Recommendation
+## Recommendation repository
 [![Recommend repository 1](https://github-readme-stats.vercel.app/api/pin/?username=RiRyCasals&repo=nimls)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Badges
