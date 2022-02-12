@@ -1,5 +1,5 @@
 # My GitHub profile
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=RiRyCasals&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=RiRyCasals&theme=default&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiRyCasals&theme=default)
 ![GitHub commits time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiRyCasals&theme=default)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiRyCasals&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
