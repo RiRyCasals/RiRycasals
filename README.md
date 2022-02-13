@@ -10,7 +10,7 @@
 [![Recommend repository 1](https://github-readme-stats.vercel.app/api/pin/?username=RiRyCasals&repo=nimls)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Badges
-### Qiita
+![GitHub profile views](https://komarev.com/ghpvc/?username=RiRyCasals)
 [![Qiita posts](https://qiita-badge.apiapi.app/s/RiRyCasals/posts.svg)](http://qiita.com/RiRyCasals)
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/RiRyCasals/contributions.svg)](http://qiita.com/RiRyCasals)
 [![Qiita followers](https://qiita-badge.apiapi.app/s/RiRyCasals/followers.svg)](http://qiita.com/RiRyCasals)
