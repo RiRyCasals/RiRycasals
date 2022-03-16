@@ -8,6 +8,7 @@
 
 ## Recommendation repository
 [![Recommend repository 1](https://github-readme-stats.vercel.app/api/pin/?username=RiRyCasals&repo=nimls)](https://github.com/anuraghazra/github-readme-stats)
+[![Recommend repository 2](https://github-readme-stats.vercel.app/api/pin/?username=RiRyCasals&repo=nim-cross-compile-env)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Badges
 ![GitHub profile views](https://komarev.com/ghpvc/?username=RiRyCasals)
